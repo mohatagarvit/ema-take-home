@@ -76,7 +76,7 @@ index = VectorstoreIndexCreator().from_loaders([loader])
 chat_history = []
 # query = "Which model did Google release in 2018"
 query = "list all models released after 2017"
-docsearch = Chroma.from_documents(texts, embeddings, metadatas=[{"source": str(i)} for i in range(len(texts))])
+# docsearch = Chroma.from_documents(texts, embeddings, metadatas=[{"source": str(i)} for i in range(len(texts))])
 vectorstore = Chroma.from_documents(documents, embeddings)
 
 chain = load_qa_with_sources_chain(llm, chain_type="stuff")
