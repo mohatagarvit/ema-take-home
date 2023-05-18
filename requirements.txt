@@ -1,0 +1,12 @@
+beautifulsoup4==4.11.1
+gradio==3.31.0
+langchain==0.0.171
+unstructured[local-inference]
+openai
+tiktoken
+chromadb
+pypdf
+gradio
+transformers
+pandas
+streamlit
