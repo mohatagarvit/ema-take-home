@@ -1,5 +1,5 @@
 # ema-take-home
-EMA take home challenge
+EMA [take home challenge](https://docs.google.com/document/d/1J99em3zttLEwtQ9oJEOP5nVeDricSMmqE7j_ig6kVqU)
 
 ### [Design Doc](https://docs.google.com/document/d/1vRxxKQiYI0jttjN885Ij-J0IYJQMZkg46loVui3a9A4/edit?usp=sharing) for the implementation.
 
