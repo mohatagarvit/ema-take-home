@@ -1,5 +1,7 @@
-# ema-take-home
-EMA [take home challenge](https://docs.google.com/document/d/1J99em3zttLEwtQ9oJEOP5nVeDricSMmqE7j_ig6kVqU)
+<!-- # ema-take-home
+EMA [take home challenge](https://docs.google.com/document/d/1J99em3zttLEwtQ9oJEOP5nVeDricSMmqE7j_ig6kVqU) -->
+
+Reads [Stanford Lecture Notes](https://stanford-cs324.github.io/winter2022/lectures/) and accommodates different data types (images, text, hyperlinks, tables, PDFs) while performing vector indexing over the course/lecture content. 
 
 ### [Design Doc](https://docs.google.com/document/d/1vRxxKQiYI0jttjN885Ij-J0IYJQMZkg46loVui3a9A4/edit?usp=sharing) for the implementation.
 
